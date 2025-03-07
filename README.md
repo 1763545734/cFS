@@ -210,3 +210,4 @@ See the [cFE Application Developer's Guide](https://github.com/nasa/cFE/blob/mai
   - Perfutils-java: Java based performance analyzer for cFS at <https://github.com/nasa/perfutils-java>
   - gen_sch_tbl: Tool to generated SCH app tables at <https://github.com/nasa/gen_sch_tbl>
   - CryptoLib: Software-only CCSDS Space Data Link Security Protocol - Extended Procedures (SDLS-EP) at <https://github.com/nasa/CryptoLib>
+  sdha
